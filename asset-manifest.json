@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/joyStick/static/css/main.6155624e.css",
+    "main.js": "/joyStick/static/js/main.6fa038e4.js",
+    "static/media/steam.svg": "/joyStick/static/media/steam.d7b8819f879421dc2f25a3474964687d.svg",
+    "static/media/playstation.svg": "/joyStick/static/media/playstation.18cc4b9ca49a92b00bb7958e88c5b9ad.svg",
+    "static/media/xbox.svg": "/joyStick/static/media/xbox.3e7db73549794056f91af6a980fbc4a4.svg",
+    "static/media/gamepad.svg": "/joyStick/static/media/gamepad.c9269ef588f73b9923db9e4c2be06cf0.svg",
+    "index.html": "/joyStick/index.html",
+    "static/media/nintendo.svg": "/joyStick/static/media/nintendo.f579be0450cff9bf18cd4b3371f79436.svg",
+    "static/media/apple.svg": "/joyStick/static/media/apple.5757c37e1a2b3d89e03deb9212a997e8.svg",
+    "main.6155624e.css.map": "/joyStick/static/css/main.6155624e.css.map",
+    "main.6fa038e4.js.map": "/joyStick/static/js/main.6fa038e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6155624e.css",
+    "static/js/main.6fa038e4.js"
+  ]
+}
